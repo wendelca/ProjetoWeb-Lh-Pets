@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "GqDcYP/QYYRb/FA1AQ/pFTM+KeHk3+8oudxA6jJP2kU=",
+  "Source": "ProjetoWeb-Lh-Pets",
+  "BasePath": "_content/ProjetoWeb-Lh-Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoWeb-Lh-Pets\\wwwroot",
+      "Source": "ProjetoWeb-Lh-Pets",
+      "ContentRoot": "C:\\Users\\Power\\Documents\\senai\\ProjetoWeb-Lh-Pets\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb-Lh-Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Power\\Documents\\senai\\ProjetoWeb-Lh-Pets\\wwwroot\\index.html",
+      "SourceId": "ProjetoWeb-Lh-Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Power\\Documents\\senai\\ProjetoWeb-Lh-Pets\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb-Lh-Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
